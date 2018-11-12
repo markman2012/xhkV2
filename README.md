@@ -1,0 +1,3 @@
+HOSTINKEY (XHK) V2 an open source cryptocurrency and globally accessible payment network, with a highly-scalable, hyper-fast, low-fee transaction profile. The HOSTINKEY network features a low-barrier, fully democratized governance mechanism, user-friendly cross-platform clients for universal adoption and a large-scale masternode network supporting a diverse set of services available to network participants. To secure its network, HOSTINKEY utilizes a X11-based Proof of Work consensus algorithm, to be later switched over to an environmentally-friendly Proof of Stake. Masternode operators are compensated for the services they provide, as are miners and stakers for cryptographically validating transaction on the network.
+
+Fixed Wallet Daemon Cli so that Chain Un froze 
